@@ -1,5 +1,5 @@
 import org.apache.commons.lang3.StringUtils;
-// add test comment
+
 /**
  * Created by jt on 2018-11-26.
  */
